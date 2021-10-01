@@ -1,0 +1,3 @@
+bastion_ami: ami-of your instance(any os)
+region: us-east-2
+MYIP: your laptop IP
